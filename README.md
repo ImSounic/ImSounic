@@ -16,7 +16,7 @@ I'm Sounic, a passionate and curious Computer Science student at Aberystwyth Uni
 📫 Email: imsounic@gmail.com
 🐦 Twitter: @imsounic
 💼 LinkedIn: Sounic Akkaraju
-🌐 Portfolio: --Coming Soon--
+🌐 Portfolio: [https://imsounic.dev/]
 
 ## Let's Code Together!
 I'm always open to new opportunities, collaborations, and conversations. Whether it's about coding, technology trends, or just sharing interesting ideas, feel free to reach out. Let's build something amazing together! 🚀
