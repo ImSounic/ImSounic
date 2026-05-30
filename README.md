@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Sounic, a passionate and curious Computer Science student at Aberystwyth University. Currently in my second year, I'm diving into the world of algorithms, programming languages, and software development.
+I'm Sounic, a passionate and curious Computer Science student at University of Twente. Currently in my second year, I'm diving into the world of algorithms, programming languages, and software development.
 
 ## About Me
 🔍 Exploring: Always eager to learn and explore new technologies and coding paradigms.
