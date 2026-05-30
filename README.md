@@ -1,7 +1,7 @@
 # Hi there, I'm Sounic 👋
 
 ### Computer Science Master's Student @ University of Twente
-### AI/ML Enthusiast • Full Stack Developer  • Creative Technologist
+### AI/ML Enthusiast • Full Stack Developer • Creative Technologist
 
 I'm passionate about building impactful software, exploring artificial intelligence, and creating experiences that combine technology, design, and innovation.
 
@@ -21,26 +21,38 @@ I'm passionate about building impactful software, exploring artificial intellige
 ## 🛠️ Tech Stack
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-### Frontend & Mobile
+### AI / ML & Data Science
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-189FDD?logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-### AI & Backend
-
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+### Backend & Cloud
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
 ### Design & Creative
-
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
@@ -49,15 +61,17 @@ I'm passionate about building impactful software, exploring artificial intellige
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?    username=imsounic&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsounic&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsounic&theme=tokyonight&hide_border=true" /> </p>
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=imsounic&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsounic&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsounic&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=imsounic&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsounic&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
