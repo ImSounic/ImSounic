@@ -1,7 +1,7 @@
 # Hi there, I'm Sounic 👋
 
 ### Computer Science Master's Student @ University of Twente
-### Full Stack Developer • AI Enthusiast • Creative Technologist
+### AI/ML Enthusiast • Full Stack Developer  • Creative Technologist
 
 I'm passionate about building impactful software, exploring artificial intelligence, and creating experiences that combine technology, design, and innovation.
 
