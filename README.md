@@ -49,6 +49,8 @@ I'm passionate about building impactful software, exploring artificial intellige
 
 ## 📈 GitHub Stats
 
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?    username=imsounic&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsounic&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsounic&theme=tokyonight&hide_border=true" /> </p>
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=imsounic&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsounic&layout=compact&theme=tokyonight&hide_border=true" />
