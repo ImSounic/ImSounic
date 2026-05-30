@@ -11,7 +11,7 @@ I'm passionate about building impactful software, exploring artificial intellige
 
 - 🎓 Master's student in Computer Science at the University of Twente
 - 💻 Full stack developer focused on web, mobile, and AI applications
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Human Computer Interaction
+- 🤖 Specialization in Artificial Intelligence, Machine Learning and Data Science
 - 🌐 Building modern web applications and intelligent systems
 - 🎨 Combining software engineering with design and creativity
 - 📚 Always learning and experimenting with new technologies
