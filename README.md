@@ -47,16 +47,6 @@ I'm passionate about building impactful software, exploring artificial intellige
 
 ---
 
-## 🌱 Currently Exploring
-
-- Large Language Models
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Human Computer Interaction
-- Scalable Software Systems
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
